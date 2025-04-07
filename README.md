@@ -8,3 +8,5 @@ Para instalar las dependencias necesarias para este proyecto, ejecuta los siguie
 
 ```bash
 npm install bootstrap
+npm install bootstrap-icons
+npm install sweetalert2
