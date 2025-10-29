@@ -7,7 +7,7 @@ Aplicación de gestión de tareas (“To-Do List”) dividida en **frontend** y 
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 To-Do-List
 - **frontend/** ← Interfaz de usuario con React + Vite
@@ -19,7 +19,7 @@ To-Do-List
 
 ---
 
-## 🚀 Cómo usar el proyecto
+## Cómo usar el proyecto
 
 Se recomienda primero configurar y levantar el backend, y luego ejecutar el frontend.
 
