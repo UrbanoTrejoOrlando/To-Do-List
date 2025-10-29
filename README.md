@@ -2,8 +2,8 @@
 
 Aplicación de gestión de tareas (“To-Do List”) dividida en **frontend** y **backend**.
 
-- El **frontend** está desarrollado con **React y Vite**.  
-- El **backend** es una **API REST** con **Node.js, Express y MongoDB**, que maneja usuarios y tareas.
+- El **front** está desarrollado con **React y Vite**.  
+- El **back** es una **API REST** con **Node.js, Express y MongoDB**, que maneja usuarios y tareas.
 
 ---
 
