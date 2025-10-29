@@ -26,11 +26,11 @@ Se recomienda primero configurar y levantar el backend, y luego ejecutar el fron
 ### Backend
 
 - Documentación completa y pasos de instalación en:  
-  [backend/README.md](backend/README.md)
+  [backend/README.md](back/README.md)
 
 ### Frontend
 
 - Documentación completa y pasos de instalación en:  
-  [frontend/README.md](frontend/README.md)
+  [frontend/README.md](front/README.md)
 
 ---
